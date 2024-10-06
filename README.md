@@ -20,5 +20,9 @@ The videos provide visual and interactive content that explains the SDGs in deta
 Together, these features make the app a comprehensive educational tool. The combination of interactive content like quizzes and videos with gamified elements such as scoring and leaderboards keeps students motivated while improving their knowledge of the SDGs. This ensures a dynamic and impactful learning journey aimed at promoting awareness and understanding of global sustainability efforts.
 
 
+
+
+
+
 Countributers: Aslam,Navami BR, Parthiv Krishna, Ashna EL, Nandana, Ubu
  
