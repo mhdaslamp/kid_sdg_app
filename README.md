@@ -8,6 +8,7 @@ The homepage is designed with simplicity in mind, featuring three key icons at t
 2. Leaderboard: To foster healthy competition and community engagement, the app features a leaderboard where students can see how their scores compare with those of their peers. This competitive aspect encourages continued participation and goal-oriented learning.
 
 
+
 3. Quizzes and Videos: To further enhance learning, the app offers quizzes and videos on each SDG.
 
 The quizzes are designed to test the users’ understanding of each goal. Scoring well in quizzes helps boost their overall score, which is reflected on their profile and in the leaderboard.
