@@ -26,5 +26,6 @@ Together, these features make the app a comprehensive educational tool. The comb
 
 
 Countributers: Aslam,
-Navami BR, Parthiv Krishna, Ashna EL, Nandana, Ubu
+Navami BR, Parthiv Krishna, 
+Ashna EL, Nandana, Ubu
  
